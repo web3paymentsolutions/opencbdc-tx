@@ -1,0 +1,4 @@
+<map id="cbdc::buffer_serializer" name="cbdc::buffer_serializer">
+<area shape="rect" id="node1" title="Serializer implementation for buffer." alt="" coords="5,79,151,105"/>
+<area shape="rect" id="node2" href="$classcbdc_1_1serializer.html" title="Interface for serializing objects into and out of raw bytes representations." alt="" coords="25,5,131,31"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="random_source.hpp" name="random_source.hpp">
+<area shape="rect" id="node1" title="Pseudorandom number generator (PRNG) for generating random data from a given entropy source." alt="" coords="333,5,467,31"/>
+<area shape="rect" id="node2" href="$twophase_2coordinator_2controller_8hpp.html" title=" " alt="" coords="149,153,248,178"/>
+<area shape="rect" id="node9" href="$distributed__tx_8hpp.html" title=" " alt="" coords="263,79,385,105"/>
+<area shape="rect" id="node11" href="$random__source_8cpp.html" title=" " alt="" coords="409,79,543,105"/>
+<area shape="rect" id="node12" href="$wallet_8hpp.html" title=" " alt="" coords="574,79,653,105"/>
+<area shape="rect" id="node3" href="$twophase_2coordinator_2controller_8cpp.html" title=" " alt="" coords="389,300,488,326"/>
+<area shape="rect" id="node4" href="$coordinatord_8cpp.html" title=" " alt="" coords="138,226,254,252"/>
+<area shape="rect" id="node5" href="$uhs_2twophase_2coordinator_2format_8cpp.html" title=" " alt="" coords="5,300,88,326"/>
+<area shape="rect" id="node6" href="$uhs_2twophase_2coordinator_2format_8hpp.html" title=" " alt="" coords="279,226,361,252"/>
+<area shape="rect" id="node8" href="$twophase_2coordinator_2state__machine_8cpp.html" title=" " alt="" coords="112,300,242,326"/>
+<area shape="rect" id="node7" href="$twophase_2sentinel__2pc_2controller_8cpp.html" title=" " alt="" coords="267,300,365,326"/>
+<area shape="rect" id="node10" href="$distributed__tx_8cpp.html" title=" " alt="" coords="272,153,394,178"/>
+<area shape="rect" id="node13" href="$client_2client_8cpp.html" title=" " alt="" coords="444,226,521,252"/>
+<area shape="rect" id="node14" href="$uhs_2client_2client_8hpp.html" title=" " alt="" coords="575,153,651,178"/>
+<area shape="rect" id="node20" href="$wallet_8cpp.html" title=" " alt="" coords="675,153,754,178"/>
+<area shape="rect" id="node15" href="$atomizer__client_8hpp.html" title=" " alt="" coords="759,226,891,252"/>
+<area shape="rect" id="node17" href="$client-cli_8cpp.html" title=" " alt="" coords="675,300,768,326"/>
+<area shape="rect" id="node18" href="$twophase__client_8hpp.html" title=" " alt="" coords="545,226,684,252"/>
+<area shape="rect" id="node16" href="$atomizer__client_8cpp.html" title=" " alt="" coords="792,300,925,326"/>
+<area shape="rect" id="node19" href="$twophase__client_8cpp.html" title=" " alt="" coords="512,300,651,326"/>
+</map>

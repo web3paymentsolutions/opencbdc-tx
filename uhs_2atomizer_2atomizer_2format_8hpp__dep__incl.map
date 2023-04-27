@@ -1,0 +1,16 @@
+<map id="format.hpp" name="format.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="538,5,621,31"/>
+<area shape="rect" id="node2" href="$atomizer__client_8cpp.html" title=" " alt="" coords="5,79,138,105"/>
+<area shape="rect" id="node3" href="$atomizer__raft_8cpp.html" title=" " alt="" coords="162,79,282,105"/>
+<area shape="rect" id="node4" href="$atomizer_2archiver_2client_8cpp.html" title=" " alt="" coords="307,79,383,105"/>
+<area shape="rect" id="node5" href="$atomizer_2archiver_2controller_8cpp.html" title=" " alt="" coords="408,79,506,105"/>
+<area shape="rect" id="node6" href="$atomizer_2atomizer_2controller_8cpp.html" title=" " alt="" coords="530,79,629,105"/>
+<area shape="rect" id="node7" href="$atomizer_2watchtower_2controller_8cpp.html" title=" " alt="" coords="653,79,751,105"/>
+<area shape="rect" id="node8" href="$uhs_2atomizer_2atomizer_2format_8cpp.html" title=" " alt="" coords="776,79,858,105"/>
+<area shape="rect" id="node9" href="$shard_8hpp.html" title="Shard core functionality." alt="" coords="882,79,960,105"/>
+<area shape="rect" id="node14" href="$atomizer_2atomizer_2state__machine_8cpp.html" title=" " alt="" coords="984,79,1114,105"/>
+<area shape="rect" id="node10" href="$atomizer_2shard_2controller_8hpp.html" title=" " alt="" coords="816,153,914,178"/>
+<area shape="rect" id="node13" href="$shard_8cpp.html" title=" " alt="" coords="938,153,1016,178"/>
+<area shape="rect" id="node11" href="$atomizer_2shard_2controller_8cpp.html" title=" " alt="" coords="758,226,857,252"/>
+<area shape="rect" id="node12" href="$shardd_8cpp.html" title=" " alt="" coords="881,226,966,252"/>
+</map>

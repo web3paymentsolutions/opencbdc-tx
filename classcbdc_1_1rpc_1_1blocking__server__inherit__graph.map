@@ -1,0 +1,6 @@
+<map id="cbdc::rpc::blocking_server&lt; Request, Response, InBuffer, OutBuffer &gt;" name="cbdc::rpc::blocking_server&lt; Request, Response, InBuffer, OutBuffer &gt;">
+<area shape="rect" id="node1" title="Generic synchronous RPC server." alt="" coords="197,38,389,93"/>
+<area shape="rect" id="node3" href="$classcbdc_1_1rpc_1_1blocking__server.html" title=" " alt="" coords="543,23,690,108"/>
+<area shape="rect" id="node2" href="$classcbdc_1_1rpc_1_1server.html" title="Generic RPC server." alt="" coords="5,38,148,93"/>
+<area shape="rect" id="node4" href="$classcbdc_1_1locking__shard_1_1state__machine.html" title="Raft state machine for handling locking shard RPC requests." alt="" coords="739,45,874,86"/>
+</map>

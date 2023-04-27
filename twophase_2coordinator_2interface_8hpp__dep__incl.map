@@ -1,0 +1,19 @@
+<map id="interface.hpp" name="interface.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="556,5,652,31"/>
+<area shape="rect" id="node2" href="$uhs_2twophase_2coordinator_2client_8hpp.html" title=" " alt="" coords="478,79,554,105"/>
+<area shape="rect" id="node10" href="$twophase_2coordinator_2controller_8hpp.html" title=" " alt="" coords="620,153,719,178"/>
+<area shape="rect" id="node16" href="$uhs_2twophase_2coordinator_2server_8hpp.html" title=" " alt="" coords="642,79,723,105"/>
+<area shape="rect" id="node3" href="$twophase_2coordinator_2client_8cpp.html" title=" " alt="" coords="505,153,581,178"/>
+<area shape="rect" id="node4" href="$twophase_2sentinel__2pc_2controller_8hpp.html" title=" " alt="" coords="382,153,480,178"/>
+<area shape="rect" id="node7" href="$twophase__client_8hpp.html" title=" " alt="" coords="122,153,262,178"/>
+<area shape="rect" id="node5" href="$twophase_2sentinel__2pc_2controller_8cpp.html" title=" " alt="" coords="438,300,536,326"/>
+<area shape="rect" id="node6" href="$sentineld__2pc_8cpp.html" title=" " alt="" coords="285,226,411,252"/>
+<area shape="rect" id="node8" href="$client-cli_8cpp.html" title=" " alt="" coords="5,226,99,252"/>
+<area shape="rect" id="node9" href="$twophase__client_8cpp.html" title=" " alt="" coords="122,226,262,252"/>
+<area shape="rect" id="node11" href="$twophase_2coordinator_2controller_8cpp.html" title=" " alt="" coords="834,300,932,326"/>
+<area shape="rect" id="node12" href="$coordinatord_8cpp.html" title=" " alt="" coords="486,226,602,252"/>
+<area shape="rect" id="node13" href="$uhs_2twophase_2coordinator_2format_8cpp.html" title=" " alt="" coords="572,300,655,326"/>
+<area shape="rect" id="node14" href="$uhs_2twophase_2coordinator_2format_8hpp.html" title=" " alt="" coords="678,226,760,252"/>
+<area shape="rect" id="node15" href="$twophase_2coordinator_2state__machine_8cpp.html" title=" " alt="" coords="679,300,809,326"/>
+<area shape="rect" id="node17" href="$twophase_2coordinator_2server_8cpp.html" title=" " alt="" coords="742,153,823,178"/>
+</map>

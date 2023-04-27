@@ -1,0 +1,5 @@
+<map id="cbdc::ostream_serializer" name="cbdc::ostream_serializer">
+<area shape="rect" id="node1" title="Implementation of serializer for writing to a std::ostream." alt="" coords="5,153,166,178"/>
+<area shape="rect" id="node2" href="$classcbdc_1_1stream__serializer.html" title="Implementation of serializer for std::ios." alt="" coords="9,79,162,105"/>
+<area shape="rect" id="node3" href="$classcbdc_1_1serializer.html" title="Interface for serializing objects into and out of raw bytes representations." alt="" coords="32,5,139,31"/>
+</map>
